@@ -5,20 +5,20 @@
 
 ## **Modules**
 
-    * MVVM architecture
-    * Home Feed containing Recent News
-    * Saved News articles
-    * Search news articles 
-    * Pagination
+   * MVVM architecture
+   * Home Feed containing Recent News
+   * Saved News articles
+   * Search news articles 
+   * Pagination
 
 ## **Libraries**
 
-     * Room Persistence Library
-     * AndroidX
-     * LiveData
-     * Navigation component
-     * Retrofit
-     * Glide
+   * Room Persistence Library
+   * AndroidX
+   * LiveData
+   * Navigation component
+   * Retrofit
+   * Glide
      
 
 ## **Images:**
