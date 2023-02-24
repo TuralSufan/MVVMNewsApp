@@ -1,14 +1,14 @@
 # MVVMNewsApp
 
-#### MVVMNewsApp is simple news app in MVVM architecture working with public [NewsApi](https://newsapi.org).
+#### MVVMNewsApp is a simple news app in MVVM architecture working with public [NewsApi](https://newsapi.org).
 ---
 
 ## **Best practices**
 
 * Navigation Components
-* Coroutines
+* Kotlin Coroutines
 * Retrofit
-* Room
+* Room Persistence Library
 
 Images:
 
